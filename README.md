@@ -1,4 +1,4 @@
-# Manuela_Hospitla_Stats
+# Manuela_Hospital_Stats
  PowerBi
  
 PowerBI project (Datacamp)
