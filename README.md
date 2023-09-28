@@ -3,7 +3,7 @@
  
 PowerBI project (Datacamp)
 
-In this project I analysed Hospital Performance and Benchmarking. 
+Hospital Performance and Benchmarking. 
 
 I was exploring the following insights:
 •	Which hospitals stand out with highest cost and LOS (longevity of stay) relative to the state average?
